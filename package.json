@@ -1,0 +1,24 @@
+{
+  "name": "tstutorialweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:db": "json-server -w db.json",
+    "start:parcel": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonchev-petar/tsTutorialWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonchev-petar/tsTutorialWeb/issues"
+  },
+  "homepage": "https://github.com/bonchev-petar/tsTutorialWeb#readme",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "typescript": "^3.9.7"
+  }
+}
