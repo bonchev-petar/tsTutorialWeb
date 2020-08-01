@@ -2,8 +2,23 @@
   "users": [
     {
       "id": 1,
+      "name": "Petar Bonchev",
+      "age": 36
+    },
+    {
+      "id": 2,
+      "name": "Aleksandrina  Lambova",
+      "age": 26
+    },
+    {
+      "id": 3,
+      "name": "Konstantin Ivanov",
+      "age": 22
+    },
+    {
+      "id": 4,
       "name": "Newer Name",
-      "age": 0
+      "age": 17
     }
   ]
 }
